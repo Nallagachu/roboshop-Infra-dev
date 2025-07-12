@@ -1,5 +1,5 @@
-## 🚀 **Roboshop VM Architecture**
+<h2 align="center">Roboshop Architecture</h2>
 
 <p align="center">
-  <img src="roboshop-infra-dev-saijyo.store-clean.svg" alt="Roboshop Architecture" width="1100"/>
+  <img src="images/roboshop-infra-dev-saijyo.store-clean.svg" alt="Roboshop Architecture" width="1000">
 </p>
