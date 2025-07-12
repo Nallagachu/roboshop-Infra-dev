@@ -7,7 +7,7 @@ resource "aws_acm_certificate" "saijyo" {
     {
         Name = "${var.project}-${var.environment}"
     }
-  )
+  ) 
 
   lifecycle {
     create_before_destroy = true
